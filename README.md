@@ -65,3 +65,15 @@ Integrate MLflow to manage the project and track metrics:
 
 <img width="942" alt="Screenshot 2023-11-19 at 9 10 06 PM" src="https://github.com/nogibjj/lisa-mini-project-12/assets/46847817/bb3373a3-a9c2-4873-b84f-37abf5b403eb">
 * Artifacts can also be found under the `mlruns` folder.
+
+
+### Future Work
+
+1. **Refine GitHub Action:**
+   - Address and resolve errors encountered during MLflow runs in the GitHub Action workflow. Investigate potential issues related to the creation of new artifacts and implement solutions for smoother execution.
+
+2. **Deep Dive into MLflow UI:**
+   - Explore the capabilities of the MLflow UI in-depth. Gain insights into visualizing experiment results, understanding model performance, and leveraging the UI for efficient project management.
+
+3. **Adopt MLflow in Future Projects:**
+   - Integrate tools like MLflow into upcoming machine learning projects to enhance and streamline the model training process. Leverage MLflow's features for improved experiment tracking, collaboration, and reproducibility.
