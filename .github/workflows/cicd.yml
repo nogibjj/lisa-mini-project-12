@@ -23,6 +23,7 @@ jobs:
 
     - name: Run MLflow Script
       run: make run
+      working-directory: .
 
     - name: Upload MLflow Artifacts
       uses: actions/upload-artifact@v2
