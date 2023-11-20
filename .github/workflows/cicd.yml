@@ -16,12 +16,12 @@ jobs:
     - name: Install Dependencies
       run: make install
 
-    - name: Run MLflow Script
-      run: make run
-      working-directory: .
+    # - name: Run MLflow Script
+    #   run: make run
+    #   working-directory: .
 
-    - name: Upload MLflow Artifacts
-      uses: actions/upload-artifact@v2
-      with:
-        name: mlflow-artifacts
-        path: mlruns
+    # - name: Upload MLflow Artifacts
+    #   uses: actions/upload-artifact@v2
+    #   with:
+    #     name: mlflow-artifacts
+    #     path: mlruns
