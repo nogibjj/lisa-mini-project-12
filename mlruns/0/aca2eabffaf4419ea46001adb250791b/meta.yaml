@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/lisa-mini-project-12/mlruns/0/aca2eabffaf4419ea46001adb250791b/artifacts
+end_time: 1700442982173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aca2eabffaf4419ea46001adb250791b
+run_name: agreeable-mare-219
+run_uuid: aca2eabffaf4419ea46001adb250791b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700442982136
+status: 3
+tags: []
+user_id: codespace

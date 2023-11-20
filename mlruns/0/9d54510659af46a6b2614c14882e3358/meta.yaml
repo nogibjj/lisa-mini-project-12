@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/lisa-mini-project-12/mlruns/0/9d54510659af46a6b2614c14882e3358/artifacts
+end_time: 1700443433854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d54510659af46a6b2614c14882e3358
+run_name: zealous-mule-621
+run_uuid: 9d54510659af46a6b2614c14882e3358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700443433819
+status: 3
+tags: []
+user_id: codespace

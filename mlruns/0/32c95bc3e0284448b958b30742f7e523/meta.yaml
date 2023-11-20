@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/lisa-mini-project-12/mlruns/0/32c95bc3e0284448b958b30742f7e523/artifacts
+end_time: 1700442895108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32c95bc3e0284448b958b30742f7e523
+run_name: capricious-cod-90
+run_uuid: 32c95bc3e0284448b958b30742f7e523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700442895070
+status: 4
+tags: []
+user_id: codespace
